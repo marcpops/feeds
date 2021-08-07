@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[the guardian]
+title = "The Guardian international"
+url = "https://www.theguardian.com/international"
+entrySelector = "#headlines"
+titleSelector = ".fc-slice-wrapper"
+linkSelector = ".u-faux-block-link__overlay"
