@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-10-11T05:35:16.149Z</updated>
+    <updated>2021-10-11T17:41:13.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Schneider%27s_marmoset</id>
         <link href="https://en.wikipedia.org/wiki/Schneider%27s_marmoset"/>
         <updated>2021-10-11T05:35:15.539Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Schneider%27s_marmoset" title="Schneider's marmoset">Schneider's marmoset</a></b> is one of three <b><a href="/wiki/List_of_primates_described_in_the_2020s" title="List of primates described in the 2020s">primates newly described in the 2020s</a></b>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Schneider%27s_marmoset" title="Schneider's marmoset">Schneider's marmoset</a></b>  <i>(pictured)</i> is one of three <b><a href="/wiki/List_of_primates_described_in_the_2020s" title="List of primates described in the 2020s">primates newly described in the 2020s</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kirovs Lipmans]]></title>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Ivo_Heren%C4%8Di%C4%87</id>
         <link href="https://en.wikipedia.org/wiki/Ivo_Heren%C4%8Di%C4%87"/>
         <updated>2021-10-11T05:35:15.542Z</updated>
-        <content type="html"><![CDATA[... that World War&nbsp;II war criminal <b><a href="/wiki/Ivo_Heren%C4%8Di%C4%87" title="Ivo Herenčić">Ivo Herenčić</a></b> worked as an art-seller in Rome after the war?]]></content>
+        <content type="html"><![CDATA[... that World War&nbsp;II war criminal <b><a href="/wiki/Ivo_Heren%C4%8Di%C4%87" title="Ivo Herenčić">Ivo Herenčić</a></b> worked as an art dealer in Rome after the war?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3 East 57th Street]]></title>
