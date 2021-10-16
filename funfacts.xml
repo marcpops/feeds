@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-10-16T05:38:13.015Z</updated>
+    <updated>2021-10-16T17:40:50.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[... that ahead of the <a href="/wiki/IPhone_4S" title="IPhone 4S">iPhone&nbsp;4S</a>'s launch, <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> retail store workers in Rome <b><a href="/wiki/Apple_worker_organizations" title="Apple worker organizations">went on strike</a></b> using the slogan "Strike Different", a play on words on Apple's "<a href="/wiki/Think_different" title="Think different">Think Different</a>"?]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blue Chip Electronics]]></title>
+        <id>https://en.wikipedia.org/wiki/Blue_Chip_Electronics</id>
+        <link href="https://en.wikipedia.org/wiki/Blue_Chip_Electronics"/>
+        <updated>2021-10-16T05:38:12.429Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Blue_Chip_Electronics" title="Blue Chip Electronics">Blue Chip Electronics</a></b><span class="nowrap">'</span> low-cost Blue Chip PC was manufactured by <a href="/wiki/SK_Hynix" title="SK Hynix">Hyundai</a>?]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Catharine Brant]]></title>
         <id>https://en.wikipedia.org/wiki/Catharine_Brant</id>
         <link href="https://en.wikipedia.org/wiki/Catharine_Brant"/>
@@ -32,13 +39,6 @@
         <link href="https://en.wikipedia.org/wiki/Horselunges_Manor"/>
         <updated>2021-10-16T05:38:12.428Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Horselunges_Manor" title="Horselunges Manor">Horselunges Manor</a></b> was featured in the film <i><a href="/wiki/The_Song_Remains_the_Same_(film)" title="The Song Remains the Same (film)">The Song Remains the Same</a></i> about <a href="/wiki/Led_Zeppelin" title="Led Zeppelin">Led Zeppelin</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Chip Electronics]]></title>
-        <id>https://en.wikipedia.org/wiki/Blue_Chip_Electronics</id>
-        <link href="https://en.wikipedia.org/wiki/Blue_Chip_Electronics"/>
-        <updated>2021-10-16T05:38:12.429Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Blue_Chip_Electronics" title="Blue Chip Electronics">Blue Chip Electronics</a></b><span class="nowrap">'</span> low-cost Blue Chip PC was manufactured by <a href="/wiki/SK_Hynix" title="SK Hynix">Hyundai</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ukrainians were using regular-issue paper money]]></title>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Laura_Jean_McKay</id>
         <link href="https://en.wikipedia.org/wiki/Laura_Jean_McKay"/>
         <updated>2021-10-16T05:38:12.434Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Laura_Jean_McKay" title="Laura Jean McKay">Laura Jean McKay</a></b><span class="nowrap">'s</span> 2020 novel about a fictional global pandemic was first written in 2013?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Laura_Jean_McKay" title="Laura Jean McKay">Laura Jean McKay</a></b><span class="nowrap">'s</span> 2020 novel about a fictional pandemic was first written in 2013?]]></content>
     </entry>
 </feed>
